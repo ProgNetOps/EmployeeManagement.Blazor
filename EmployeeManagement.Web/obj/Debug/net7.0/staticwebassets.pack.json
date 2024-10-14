@@ -57,6 +57,18 @@
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
+      "Id": "C:\\Repository\\EmployeeManagement.Blazor\\EmployeeManagement.Web\\wwwroot\\images\\james.jpeg",
+      "PackagePath": "staticwebassets\\images\\james.jpeg"
+    },
+    {
+      "Id": "C:\\Repository\\EmployeeManagement.Blazor\\EmployeeManagement.Web\\wwwroot\\images\\john.jpeg",
+      "PackagePath": "staticwebassets\\images\\john.jpeg"
+    },
+    {
+      "Id": "C:\\Repository\\EmployeeManagement.Blazor\\EmployeeManagement.Web\\wwwroot\\images\\jude.jpeg",
+      "PackagePath": "staticwebassets\\images\\jude.jpeg"
+    },
+    {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.EmployeeManagement.Web.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

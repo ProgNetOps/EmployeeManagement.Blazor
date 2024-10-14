@@ -33,3 +33,4 @@ C:\Repository\EmployeeManagement.Blazor\EmployeeManagement.Web\obj\Debug\net7.0\
 C:\Repository\EmployeeManagement.Blazor\EmployeeManagement.Web\obj\Debug\net7.0\EmployeeManagement.Web.pdb
 C:\Repository\EmployeeManagement.Blazor\EmployeeManagement.Web\obj\Debug\net7.0\EmployeeManagement.Web.genruntimeconfig.cache
 C:\Repository\EmployeeManagement.Blazor\EmployeeManagement.Web\obj\Debug\net7.0\ref\EmployeeManagement.Web.dll
+C:\Repository\EmployeeManagement.Blazor\EmployeeManagement.Web\obj\Debug\net7.0\EmployeeManagement.Web.sourcelink.json
